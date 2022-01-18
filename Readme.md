@@ -1,4 +1,4 @@
-University project!
+University project
 
 App fetches data measured by CR1000X datalogger and presents it to the user.
 
