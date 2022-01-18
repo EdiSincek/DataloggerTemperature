@@ -1,0 +1,28 @@
+{
+  "name": "projekt",
+  "version": "1.0.0",
+  "description": "This is my project.",
+  "main": "index.js",
+  "proxy": "http://161.53.17.95:8081",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Edi Sincek",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "chart.js": "^3.7.0",
+    "cross-fetch": "^3.1.4",
+    "express": "^4.17.2",
+    "gh-pages": "^3.2.3",
+    "http-errors": "^2.0.0",
+    "http-status-code": "^2.1.0",
+    "mysql": "^2.18.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
