@@ -1,5 +1,3 @@
-University project
-
 App fetches data measured by CR1000X datalogger and shows it to the user.
 
 Node.js, HTML , CSS , JS , Chart.Js, MySQL
